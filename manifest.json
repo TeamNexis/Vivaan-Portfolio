@@ -1,0 +1,27 @@
+
+{
+    "name": "Vivaan - Telegram Bot Developer",
+    "short_name": "Vivaan Portfolio",
+    "description": "Professional portfolio of Vivaan - Telegram Bot Builder & Automation Expert",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#6366f1",
+    "orientation": "portrait-primary",
+    "categories": ["business", "productivity"],
+    "lang": "en",
+    "icons": [
+        {
+            "src": "./avatar.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./avatar.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ]
+}
