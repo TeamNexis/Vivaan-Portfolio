@@ -1,0 +1,17 @@
+Assistant checkpoint
+
+Assistant generated file changes:
+- style.css: Update animation durations to be much slower and more elegant
+Update animation durations to be much slower and more elegant
+Slow down hero background animation and particle effects
+- script.js: Slow down particle creation and fix avatar image loading, Slow down matrix rain animation, Slow down shape creation, Fix avatar image loading with proper error handling, Slow down typing animation
+- avatar.jpg: Create a proper avatar image file
+
+---
+
+User prompt:
+
+emoji moving animations is so fast and also other effects are also so fast its not looking well and also you are not able to upload avatar photo in it
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 3f50a231-2c78-4d45-a0dc-89a8a775f0b1
